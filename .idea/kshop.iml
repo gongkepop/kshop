@@ -17,10 +17,14 @@
     <orderEntry type="module-library">
       <library name="PHARS">
         <CLASSES>
+          <root url="phar://$MODULE_DIR$/yii2test/vendor/phpunit/phpunit/tests/_files/phpunit-example-extension/tools/phpunit.d/phpunit-example-extension-1.0.1.phar/" />
+          <root url="phar://$MODULE_DIR$/yii2test/vendor/phar-io/manifest/tests/_fixture/test.phar/" />
           <root url="phar://$MODULE_DIR$/advanced/vendor/phar-io/manifest/tests/_fixture/test.phar/" />
           <root url="phar://$MODULE_DIR$/advanced/vendor/phpunit/phpunit/tests/_files/phpunit-example-extension/tools/phpunit.d/phpunit-example-extension-1.0.1.phar/" />
         </CLASSES>
         <SOURCES>
+          <root url="phar://$MODULE_DIR$/yii2test/vendor/phpunit/phpunit/tests/_files/phpunit-example-extension/tools/phpunit.d/phpunit-example-extension-1.0.1.phar/" />
+          <root url="phar://$MODULE_DIR$/yii2test/vendor/phar-io/manifest/tests/_fixture/test.phar/" />
           <root url="phar://$MODULE_DIR$/advanced/vendor/phar-io/manifest/tests/_fixture/test.phar/" />
           <root url="phar://$MODULE_DIR$/advanced/vendor/phpunit/phpunit/tests/_files/phpunit-example-extension/tools/phpunit.d/phpunit-example-extension-1.0.1.phar/" />
         </SOURCES>
